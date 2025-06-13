@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{723F55D1-F417-41F5-B5A9-F0CD6D0021AA}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project2_entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723F55D1-F417-41F5-B5A9-F0CD6D0021AA}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|solutionrelative:project2_entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723F55D1-F417-41F5-B5A9-F0CD6D0021AA}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project2_entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{723F55D1-F417-41F5-B5A9-F0CD6D0021AA}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|solutionrelative:project2_entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723F55D1-F417-41F5-B5A9-F0CD6D0021AA}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project2_entityframeworkdbfirstproduct\\frmproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723F55D1-F417-41F5-B5A9-F0CD6D0021AA}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|solutionrelative:project2_entityframeworkdbfirstproduct\\frmproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723F55D1-F417-41F5-B5A9-F0CD6D0021AA}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project2_entityframeworkdbfirstproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723F55D1-F417-41F5-B5A9-F0CD6D0021AA}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|solutionrelative:project2_entityframeworkdbfirstproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723F55D1-F417-41F5-B5A9-F0CD6D0021AA}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project2_entityframeworkdbfirstproduct\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{723F55D1-F417-41F5-B5A9-F0CD6D0021AA}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|solutionrelative:project2_entityframeworkdbfirstproduct\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "RelativeDocumentMoniker": "Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs [Design]",
+              "RelativeToolTip": "Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:12:42.46Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmProduct.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "RelativeDocumentMoniker": "Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "RelativeToolTip": "Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswFkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:16:12.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project2_EntityFrameworkDbFirstProduct\\FrmProduct.Designer.cs",
+              "RelativeDocumentMoniker": "Project2_EntityFrameworkDbFirstProduct\\FrmProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project2_EntityFrameworkDbFirstProduct\\FrmProduct.Designer.cs",
+              "RelativeToolTip": "Project2_EntityFrameworkDbFirstProduct\\FrmProduct.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:28:40.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project2_EntityFrameworkDbFirstProduct\\Program.cs",
+              "RelativeDocumentMoniker": "Project2_EntityFrameworkDbFirstProduct\\Program.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project2_EntityFrameworkDbFirstProduct\\Program.cs",
+              "RelativeToolTip": "Project2_EntityFrameworkDbFirstProduct\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:23:42.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs [Design]",
+              "RelativeToolTip": "Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:29:18.006Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
