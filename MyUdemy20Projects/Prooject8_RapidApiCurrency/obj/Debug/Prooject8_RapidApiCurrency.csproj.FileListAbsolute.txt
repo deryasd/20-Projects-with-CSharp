@@ -1,0 +1,13 @@
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Prooject8_RapidApiCurrency\bin\Debug\Prooject8_RapidApiCurrency.exe.config
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Prooject8_RapidApiCurrency\bin\Debug\Prooject8_RapidApiCurrency.exe
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Prooject8_RapidApiCurrency\bin\Debug\Prooject8_RapidApiCurrency.pdb
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Prooject8_RapidApiCurrency\obj\Debug\Prooject8_RapidApiCurrency.csproj.AssemblyReference.cache
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Prooject8_RapidApiCurrency\obj\Debug\Prooject8_RapidApiCurrency.Form1.resources
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Prooject8_RapidApiCurrency\obj\Debug\Prooject8_RapidApiCurrency.Properties.Resources.resources
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Prooject8_RapidApiCurrency\obj\Debug\Prooject8_RapidApiCurrency.csproj.GenerateResource.cache
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Prooject8_RapidApiCurrency\obj\Debug\Prooject8_RapidApiCurrency.csproj.CoreCompileInputs.cache
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Prooject8_RapidApiCurrency\obj\Debug\Prooject8_RapidApiCurrency.exe
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Prooject8_RapidApiCurrency\obj\Debug\Prooject8_RapidApiCurrency.pdb
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Prooject8_RapidApiCurrency\bin\Debug\Newtonsoft.Json.dll
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Prooject8_RapidApiCurrency\bin\Debug\Newtonsoft.Json.xml
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Prooject8_RapidApiCurrency\obj\Debug\Prooject.3DF45398.Up2Date

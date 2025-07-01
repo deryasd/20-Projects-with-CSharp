@@ -72,5 +72,35 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project6_ApiWeather.Controllers.WeathersController",
+    "Method": "MaxTempCityName",
+    "RelativePath": "api/Weathers/MaxTempCityName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project6_ApiWeather.Controllers.WeathersController",
+    "Method": "MinTempCityName",
+    "RelativePath": "api/Weathers/MinTempCityName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Project6_ApiWeather.Controllers.WeathersController",
+    "Method": "TotalCityCount",
+    "RelativePath": "api/Weathers/TotalCityCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

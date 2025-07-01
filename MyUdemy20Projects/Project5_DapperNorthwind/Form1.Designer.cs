@@ -41,9 +41,9 @@
             this.btnCategoryDelete = new System.Windows.Forms.Button();
             this.lblCategoryCount = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.lblProductCount = new System.Windows.Forms.Label();
-            this.lblAvgProductStock = new System.Windows.Forms.Label();
             this.lblSeafoodProductTotalprice = new System.Windows.Forms.Label();
+            this.lblAvgProductStock = new System.Windows.Forms.Label();
+            this.lblProductCount = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -172,15 +172,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Dapper İstatistikler";
             // 
-            // lblProductCount
+            // lblSeafoodProductTotalprice
             // 
-            this.lblProductCount.AutoSize = true;
-            this.lblProductCount.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblProductCount.Location = new System.Drawing.Point(6, 97);
-            this.lblProductCount.Name = "lblProductCount";
-            this.lblProductCount.Size = new System.Drawing.Size(70, 26);
-            this.lblProductCount.TabIndex = 12;
-            this.lblProductCount.Text = "label4";
+            this.lblSeafoodProductTotalprice.AutoSize = true;
+            this.lblSeafoodProductTotalprice.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblSeafoodProductTotalprice.Location = new System.Drawing.Point(6, 221);
+            this.lblSeafoodProductTotalprice.Name = "lblSeafoodProductTotalprice";
+            this.lblSeafoodProductTotalprice.Size = new System.Drawing.Size(70, 26);
+            this.lblSeafoodProductTotalprice.TabIndex = 14;
+            this.lblSeafoodProductTotalprice.Text = "label4";
             // 
             // lblAvgProductStock
             // 
@@ -192,15 +192,15 @@
             this.lblAvgProductStock.TabIndex = 13;
             this.lblAvgProductStock.Text = "label4";
             // 
-            // lblSeafoodProductTotalprice
+            // lblProductCount
             // 
-            this.lblSeafoodProductTotalprice.AutoSize = true;
-            this.lblSeafoodProductTotalprice.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblSeafoodProductTotalprice.Location = new System.Drawing.Point(6, 221);
-            this.lblSeafoodProductTotalprice.Name = "lblSeafoodProductTotalprice";
-            this.lblSeafoodProductTotalprice.Size = new System.Drawing.Size(70, 26);
-            this.lblSeafoodProductTotalprice.TabIndex = 14;
-            this.lblSeafoodProductTotalprice.Text = "label4";
+            this.lblProductCount.AutoSize = true;
+            this.lblProductCount.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblProductCount.Location = new System.Drawing.Point(6, 97);
+            this.lblProductCount.Name = "lblProductCount";
+            this.lblProductCount.Size = new System.Drawing.Size(70, 26);
+            this.lblProductCount.TabIndex = 12;
+            this.lblProductCount.Text = "label4";
             // 
             // Form1
             // 

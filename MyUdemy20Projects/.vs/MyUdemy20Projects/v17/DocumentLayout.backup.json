@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F29686B6-5D88-4E55-B1CC-00E68F20CD61}|Project6_ApiWeather\\Project6_ApiWeather.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project6_apiweather\\controllers\\weatherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F29686B6-5D88-4E55-B1CC-00E68F20CD61}|Project6_ApiWeather\\Project6_ApiWeather.csproj|solutionrelative:project6_apiweather\\controllers\\weatherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C6A20C1-272B-442C-A53D-C4F93180A736}|Prooject8_RapidApiCurrency\\Prooject8_RapidApiCurrency.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\prooject8_rapidapicurrency\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6A20C1-272B-442C-A53D-C4F93180A736}|Prooject8_RapidApiCurrency\\Prooject8_RapidApiCurrency.csproj|solutionrelative:prooject8_rapidapicurrency\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6A20C1-272B-442C-A53D-C4F93180A736}|Prooject8_RapidApiCurrency\\Prooject8_RapidApiCurrency.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\prooject8_rapidapicurrency\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6A20C1-272B-442C-A53D-C4F93180A736}|Prooject8_RapidApiCurrency\\Prooject8_RapidApiCurrency.csproj|solutionrelative:prooject8_rapidapicurrency\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,15 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeathersController.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project6_ApiWeather\\Controllers\\WeathersController.cs",
-              "RelativeDocumentMoniker": "Project6_ApiWeather\\Controllers\\WeathersController.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project6_ApiWeather\\Controllers\\WeathersController.cs*",
-              "RelativeToolTip": "Project6_ApiWeather\\Controllers\\WeathersController.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwCsAAAAkAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Prooject8_RapidApiCurrency\\Form1.cs",
+              "RelativeDocumentMoniker": "Prooject8_RapidApiCurrency\\Form1.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Prooject8_RapidApiCurrency\\Form1.cs",
+              "RelativeToolTip": "Prooject8_RapidApiCurrency\\Form1.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwE0AAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T10:41:35.229Z",
+              "WhenOpened": "2025-07-01T09:37:12.913Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Prooject8_RapidApiCurrency\\Form1.cs",
+              "RelativeDocumentMoniker": "Prooject8_RapidApiCurrency\\Form1.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Prooject8_RapidApiCurrency\\Form1.cs [Design]",
+              "RelativeToolTip": "Prooject8_RapidApiCurrency\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:33:34.122Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

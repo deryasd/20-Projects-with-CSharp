@@ -20,7 +20,6 @@ namespace Project1_AdonetCustomer
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
         }
         SqlConnection sqlConnection = new SqlConnection("Server=DESKTOP-FDKFGC2;initial catalog=DbCustomer;integrated security=true");
         private void btnList_Click(object sender, EventArgs e)
