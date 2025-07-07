@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01CEE896-962B-412F-A61A-203C4879A74E}|Project14_SqlAllRelations\\Project14_SqlAllRelations.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project14_sqlallrelations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01CEE896-962B-412F-A61A-203C4879A74E}|Project14_SqlAllRelations\\Project14_SqlAllRelations.csproj|solutionrelative:project14_sqlallrelations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2E59B59-E254-4216-9D3B-A0CD67227F6D}|Project15_GasPriceSimulation\\Project15_GasPriceSimulation.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project15_gaspricesimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E59B59-E254-4216-9D3B-A0CD67227F6D}|Project15_GasPriceSimulation\\Project15_GasPriceSimulation.csproj|solutionrelative:project15_gaspricesimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01CEE896-962B-412F-A61A-203C4879A74E}|Project14_SqlAllRelations\\Project14_SqlAllRelations.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project14_sqlallrelations\\items\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{01CEE896-962B-412F-A61A-203C4879A74E}|Project14_SqlAllRelations\\Project14_SqlAllRelations.csproj|solutionrelative:project14_sqlallrelations\\items\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AA455EC-A545-4B50-A5BB-C778BEC4A985}|Project13_WeatherApp\\Project13_WeatherApp.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project13_weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AA455EC-A545-4B50-A5BB-C778BEC4A985}|Project13_WeatherApp\\Project13_WeatherApp.csproj|solutionrelative:project13_weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AA455EC-A545-4B50-A5BB-C778BEC4A985}|Project13_WeatherApp\\Project13_WeatherApp.csproj|C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\project13_weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AA455EC-A545-4B50-A5BB-C778BEC4A985}|Project13_WeatherApp\\Project13_WeatherApp.csproj|solutionrelative:project13_weatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2E59B59-E254-4216-9D3B-A0CD67227F6D}|Project15_GasPriceSimulation\\Project15_GasPriceSimulation.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project15_gaspricesimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2E59B59-E254-4216-9D3B-A0CD67227F6D}|Project15_GasPriceSimulation\\Project15_GasPriceSimulation.csproj|solutionrelative:project15_gaspricesimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,52 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TextFile1.txt",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project14_SqlAllRelations\\Items\\TextFile1.txt",
-              "RelativeDocumentMoniker": "Project14_SqlAllRelations\\Items\\TextFile1.txt",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project14_SqlAllRelations\\Items\\TextFile1.txt",
-              "RelativeToolTip": "Project14_SqlAllRelations\\Items\\TextFile1.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-07T12:20:37.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project14_SqlAllRelations\\Form1.cs",
-              "RelativeDocumentMoniker": "Project14_SqlAllRelations\\Form1.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project14_SqlAllRelations\\Form1.cs [Design]",
-              "RelativeToolTip": "Project14_SqlAllRelations\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:01:17.692Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project13_WeatherApp\\Form1.cs",
-              "RelativeDocumentMoniker": "Project13_WeatherApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project13_WeatherApp\\Form1.cs",
-              "RelativeToolTip": "Project13_WeatherApp\\Form1.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAewCYAAAAzAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project15_GasPriceSimulation\\Form1.cs",
+              "RelativeDocumentMoniker": "Project15_GasPriceSimulation\\Form1.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project15_GasPriceSimulation\\Form1.cs",
+              "RelativeToolTip": "Project15_GasPriceSimulation\\Form1.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAewHMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:32:32.129Z",
+              "WhenOpened": "2025-07-07T12:57:28.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project13_WeatherApp\\Form1.cs",
-              "RelativeDocumentMoniker": "Project13_WeatherApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project13_WeatherApp\\Form1.cs [Design]",
-              "RelativeToolTip": "Project13_WeatherApp\\Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project15_GasPriceSimulation\\Form1.cs",
+              "RelativeDocumentMoniker": "Project15_GasPriceSimulation\\Form1.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project15_GasPriceSimulation\\Form1.cs [Design]",
+              "RelativeToolTip": "Project15_GasPriceSimulation\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:15:19.263Z"
+              "WhenOpened": "2025-07-07T12:48:27.268Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
