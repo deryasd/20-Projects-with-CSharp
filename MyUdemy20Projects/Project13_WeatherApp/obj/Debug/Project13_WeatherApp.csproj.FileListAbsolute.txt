@@ -1,0 +1,13 @@
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Project13_WeatherApp\bin\Debug\Project13_WeatherApp.exe.config
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Project13_WeatherApp\bin\Debug\Project13_WeatherApp.exe
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Project13_WeatherApp\bin\Debug\Project13_WeatherApp.pdb
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.csproj.AssemblyReference.cache
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.Form1.resources
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.Properties.Resources.resources
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.csproj.GenerateResource.cache
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.exe
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.pdb
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Project13_WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Project13_WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\esind\Desktop\20-Projects-with-CSharp\MyUdemy20Projects\Project13_WeatherApp\obj\Debug\Project1.A57692FC.Up2Date
