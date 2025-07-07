@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B945C83E-329D-416C-9953-56E3C89A1790}|Project11_TriggerOrderStock\\Project11_TriggerOrderStock.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project11_triggerorderstock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B945C83E-329D-416C-9953-56E3C89A1790}|Project11_TriggerOrderStock\\Project11_TriggerOrderStock.csproj|solutionrelative:project11_triggerorderstock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96EDCC19-018A-40B2-90AE-AD3C93F11691}|Project12_JWTToken\\Project12_JWTToken.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project12_jwttoken\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EDCC19-018A-40B2-90AE-AD3C93F11691}|Project12_JWTToken\\Project12_JWTToken.csproj|solutionrelative:project12_jwttoken\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B945C83E-329D-416C-9953-56E3C89A1790}|Project11_TriggerOrderStock\\Project11_TriggerOrderStock.csproj|C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\project11_triggerorderstock\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{B945C83E-329D-416C-9953-56E3C89A1790}|Project11_TriggerOrderStock\\Project11_TriggerOrderStock.csproj|solutionrelative:project11_triggerorderstock\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{96EDCC19-018A-40B2-90AE-AD3C93F11691}|Project12_JWTToken\\Project12_JWTToken.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project12_jwttoken\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EDCC19-018A-40B2-90AE-AD3C93F11691}|Project12_JWTToken\\Project12_JWTToken.csproj|solutionrelative:project12_jwttoken\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project11_TriggerOrderStock\\Program.cs",
-              "RelativeDocumentMoniker": "Project11_TriggerOrderStock\\Program.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project11_TriggerOrderStock\\Program.cs",
-              "RelativeToolTip": "Project11_TriggerOrderStock\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwHEAAAAAAAAAAAAAAA==",
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project12_JWTToken\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Project12_JWTToken\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project12_JWTToken\\FrmLogin.cs*",
+              "RelativeToolTip": "Project12_JWTToken\\FrmLogin.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAEwDQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T16:24:15.265Z",
+              "WhenOpened": "2025-07-07T09:14:53.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project11_TriggerOrderStock\\Data\\Model1.edmx",
-              "RelativeDocumentMoniker": "Project11_TriggerOrderStock\\Data\\Model1.edmx",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project11_TriggerOrderStock\\Data\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "Project11_TriggerOrderStock\\Data\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-07-06T16:36:39.921Z",
-              "EditorCaption": " [Diagram1]"
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project12_JWTToken\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Project12_JWTToken\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project12_JWTToken\\FrmLogin.cs [Design]*",
+              "RelativeToolTip": "Project12_JWTToken\\FrmLogin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:14:51.7Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
