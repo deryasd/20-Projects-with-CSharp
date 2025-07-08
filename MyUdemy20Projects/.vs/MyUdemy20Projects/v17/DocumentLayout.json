@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{FC427CE9-526F-4AB8-8AD7-94015F771A32}|Project16_MailRegister\\Project16_MailRegister.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project16_mailregister\\frmmailconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC427CE9-526F-4AB8-8AD7-94015F771A32}|Project16_MailRegister\\Project16_MailRegister.csproj|solutionrelative:project16_mailregister\\frmmailconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC427CE9-526F-4AB8-8AD7-94015F771A32}|Project16_MailRegister\\Project16_MailRegister.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project16_mailregister\\frmmailconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FC427CE9-526F-4AB8-8AD7-94015F771A32}|Project16_MailRegister\\Project16_MailRegister.csproj|solutionrelative:project16_mailregister\\frmmailconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC427CE9-526F-4AB8-8AD7-94015F771A32}|Project16_MailRegister\\Project16_MailRegister.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project16_mailregister\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC427CE9-526F-4AB8-8AD7-94015F771A32}|Project16_MailRegister\\Project16_MailRegister.csproj|solutionrelative:project16_mailregister\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC427CE9-526F-4AB8-8AD7-94015F771A32}|Project16_MailRegister\\Project16_MailRegister.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project16_mailregister\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FC427CE9-526F-4AB8-8AD7-94015F771A32}|Project16_MailRegister\\Project16_MailRegister.csproj|solutionrelative:project16_mailregister\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,56 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project16_MailRegister\\Form1.cs",
-              "RelativeDocumentMoniker": "Project16_MailRegister\\Form1.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project16_MailRegister\\Form1.cs",
-              "RelativeToolTip": "Project16_MailRegister\\Form1.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAqwEAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T10:18:07.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmMailConfirm.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project16_MailRegister\\FrmMailConfirm.cs",
-              "RelativeDocumentMoniker": "Project16_MailRegister\\FrmMailConfirm.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project16_MailRegister\\FrmMailConfirm.cs",
-              "RelativeToolTip": "Project16_MailRegister\\FrmMailConfirm.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T10:07:07.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmMailConfirm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project16_MailRegister\\FrmMailConfirm.cs",
-              "RelativeDocumentMoniker": "Project16_MailRegister\\FrmMailConfirm.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project16_MailRegister\\FrmMailConfirm.cs [Design]",
-              "RelativeToolTip": "Project16_MailRegister\\FrmMailConfirm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T10:06:01.604Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project16_MailRegister\\Form1.cs",
-              "RelativeDocumentMoniker": "Project16_MailRegister\\Form1.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project16_MailRegister\\Form1.cs [Design]",
-              "RelativeToolTip": "Project16_MailRegister\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T10:01:37.044Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
