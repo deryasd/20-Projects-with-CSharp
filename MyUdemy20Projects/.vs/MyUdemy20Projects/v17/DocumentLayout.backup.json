@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F50BD1A-095B-48C9-9349-7CC5439477EC}|Project18_DashboardSuperStore\\Project18_DashboardSuperStore.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project18_dashboardsuperstore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5F50BD1A-095B-48C9-9349-7CC5439477EC}|Project18_DashboardSuperStore\\Project18_DashboardSuperStore.csproj|solutionrelative:project18_dashboardsuperstore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{38F867AD-9E03-4440-B69F-FFBF8F27CF3A}|Project19_TableStatusMomentary\\Project19_TableStatusMomentary.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project19_tablestatusmomentary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F867AD-9E03-4440-B69F-FFBF8F27CF3A}|Project19_TableStatusMomentary\\Project19_TableStatusMomentary.csproj|solutionrelative:project19_tablestatusmomentary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F50BD1A-095B-48C9-9349-7CC5439477EC}|Project18_DashboardSuperStore\\Project18_DashboardSuperStore.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project18_dashboardsuperstore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F50BD1A-095B-48C9-9349-7CC5439477EC}|Project18_DashboardSuperStore\\Project18_DashboardSuperStore.csproj|solutionrelative:project18_dashboardsuperstore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38F867AD-9E03-4440-B69F-FFBF8F27CF3A}|Project19_TableStatusMomentary\\Project19_TableStatusMomentary.csproj|c:\\users\\esind\\desktop\\20-projects-with-csharp\\myudemy20projects\\project19_tablestatusmomentary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38F867AD-9E03-4440-B69F-FFBF8F27CF3A}|Project19_TableStatusMomentary\\Project19_TableStatusMomentary.csproj|solutionrelative:project19_tablestatusmomentary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,27 +30,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project18_DashboardSuperStore\\Form1.cs",
-              "RelativeDocumentMoniker": "Project18_DashboardSuperStore\\Form1.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project18_DashboardSuperStore\\Form1.cs",
-              "RelativeToolTip": "Project18_DashboardSuperStore\\Form1.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAuwFwAAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project19_TableStatusMomentary\\Form1.cs",
+              "RelativeDocumentMoniker": "Project19_TableStatusMomentary\\Form1.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project19_TableStatusMomentary\\Form1.cs",
+              "RelativeToolTip": "Project19_TableStatusMomentary\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAlwBgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T08:09:33.178Z",
+              "WhenOpened": "2025-07-09T08:36:09.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project18_DashboardSuperStore\\Form1.cs",
-              "RelativeDocumentMoniker": "Project18_DashboardSuperStore\\Form1.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project18_DashboardSuperStore\\Form1.cs [Design]",
-              "RelativeToolTip": "Project18_DashboardSuperStore\\Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project19_TableStatusMomentary\\Form1.cs",
+              "RelativeDocumentMoniker": "Project19_TableStatusMomentary\\Form1.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\20-Projects-with-CSharp\\MyUdemy20Projects\\Project19_TableStatusMomentary\\Form1.cs [Design]",
+              "RelativeToolTip": "Project19_TableStatusMomentary\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T08:09:00.622Z",
+              "WhenOpened": "2025-07-09T08:31:54.668Z",
               "EditorCaption": " [Design]"
             }
           ]
